@@ -1,0 +1,4 @@
+(ns com.platey.server.app)
+
+(defn -main
+  (println "Hello world"))
