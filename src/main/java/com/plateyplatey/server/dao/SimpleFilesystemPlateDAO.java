@@ -2,7 +2,6 @@ package com.plateyplatey.server.dao;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.plateyplatey.server.Helpers;
-import com.plateyplatey.server.api.Document;
 import com.plateyplatey.server.api.Plate;
 import com.plateyplatey.server.api.PlateId;
 import com.plateyplatey.server.api.PlateSummary;
