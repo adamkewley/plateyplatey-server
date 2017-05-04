@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -Ddw.server.connector.port=$PORT -cp target/classes:target/dependency/* com.plateyplatey.server.App server configuration-files/development.yml

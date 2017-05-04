@@ -1,4 +1,5 @@
 server:
-  applicationConnectors:
-    - type: http
-      port: 8080
+  type: simple
+  applicationContextPath: /
+  connector:
+    type: http
