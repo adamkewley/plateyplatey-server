@@ -1134,7 +1134,19 @@
       "columns": [
         {
           "id": "26111eb8-46c9-4d42-499f-30c032ac4fd2",
-          "header": "Column 1"
+          "header": "HI"
+        },
+        {
+          "id": "24ac75fc-1666-53b8-d53c-c43778d49b6e",
+          "header": "Solvent"
+        },
+        {
+          "id": "06b0a522-3b21-4b6c-8836-053cd9c6ff1c",
+          "header": "Stirring Speed / rpm"
+        },
+        {
+          "id": "33f9b19e-fa1f-e614-6bf4-91e174371fca",
+          "header": "Reagent (random)"
         }
       ]
     }
@@ -1152,482 +1164,1346 @@
       "data": {
         "A1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "A2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "A3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "A4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "A5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "A6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "A7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "A8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "A9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "A10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "A11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "A12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Water"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "I ran out of acid names"
           }
         },
         "B1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "B2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "B3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "B4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "B5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "B6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "B7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "B8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "B9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "B10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "B11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "B12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetonitrile"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "C1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "C2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "I ran out of acid names"
           }
         },
         "C3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "C4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "C5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "C6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "C7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "C8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "C9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "C10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "C11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "C12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Acetone"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "D1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "I ran out of acid names"
           }
         },
         "D2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "D3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "D4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "D5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "D6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "D7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "D8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "D9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "D10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "D11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "D12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Dichloromethane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "E1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "E2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "I ran out of acid names"
           }
         },
         "E3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "E4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "I ran out of acid names"
           }
         },
         "E5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "E6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "E7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "E8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "E9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "E10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "E11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "E12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Chloroform"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "F1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "F2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "F3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "F4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "F5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "F6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "F7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "F8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "F9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "F10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "F11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "F12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Ethanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "G1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "G2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "G3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "G4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "G5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "G6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "G7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "G8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "G9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "G10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Oxalic Acid"
           }
         },
         "G11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Ethanoic Acid"
           }
         },
         "G12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Methanol"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "H1": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "0"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "H2": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "H3": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "200"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "H4": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "H"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "300"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Hydrochloric Acid"
           }
         },
         "H5": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "400"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "H6": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
             "value": ""
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "500"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "H7": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "600"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Benzoic Acid"
           }
         },
         "H8": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "700"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         },
         "H9": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "800"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "H10": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "900"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Water (control)"
           }
         },
         "H11": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1000"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Scandium Triflate"
           }
         },
         "H12": {
           "26111eb8-46c9-4d42-499f-30c032ac4fd2": {
-            "value": ""
+            "value": "I"
+          },
+          "24ac75fc-1666-53b8-d53c-c43778d49b6e": {
+            "value": "Pentane"
+          },
+          "06b0a522-3b21-4b6c-8836-053cd9c6ff1c": {
+            "value": "1100"
+          },
+          "33f9b19e-fa1f-e614-6bf4-91e174371fca": {
+            "value": "Sulfuric Acid"
           }
         }
       }
